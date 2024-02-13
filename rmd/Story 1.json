@@ -2481,7 +2481,7 @@
   },
   "102030010260001": {
     "OriginalText": "何をやるにもグランが必要、か。",
-    "Text": "We do really need Gran to do anything, huh?",
+    "Text": "We really do need Gran to do anything, huh?",
     "Enabled": true
   },
   "102030010270002": {
@@ -3031,7 +3031,7 @@
   },
   "102040030160005": {
     "OriginalText": "建築、武伝、食料などのスペシャリストを\nコールドスリープから目覚めさせ、\n各種設備の拡充を進めるのです。",
-    "Text": "Awakening specialists in architecture,\narms, food, and etc. from Cold Sleep and\nbuild various facilities.",
+    "Text": "Awakening specialists in architecture,\narms, food, etc. from Cold Sleep and\nbuild various facilities.",
     "Enabled": true
   },
   "102040030170002": {
@@ -3041,7 +3041,7 @@
   },
   "102040030180003": {
     "OriginalText": "グランの供給量もさらに増えますし、\n行動範囲も広げられそう……？",
-    "Text": "Our Gran supply will increase, and the scope of our actions will expand...?",
+    "Text": "Our Gran supply will increase,\nand the scope of our actions will expand...?",
     "Enabled": true
   },
   "102040030190004": {
@@ -3161,22 +3161,22 @@
   },
   "102050010070001": {
     "OriginalText": "だからもっと優秀な人と交代した方が、\nと言ったら艦長に怒られた。",
-    "Text": "So it's better to be replaced with a better\nperson. When I said it, the Captain is\nvery mad.",
+    "Text": "So it's better to be replaced with a better\nperson. When I said that, the Captain\nwas very mad.",
     "Enabled": true
   },
   "102050010080001": {
     "OriginalText": "人手不足のうちはしょうがなかったけど、\nそうじゃなくなるなら、\nあたしより強い人が戦った方がいいって！",
-    "Text": "They won't allow it because of labor\nshortage, It's better for someone stronger\nto replace me!",
+    "Text": "They say it's because of the labor\nshortage. But it's better for someone\nstronger to replace me!",
     "Enabled": true
   },
   "102050010090001": {
     "OriginalText": "セイルやイズナは優秀なの。見てれば分かる。\nあたしの[ruby]相棒[/ruby]も……。",
-    "Text": "Sail and Izuna are excellent.\nYou can see it by looking at them.\nAnd also my Buddy....",
+    "Text": "Sail and Izuna are excellent.\nYou can tell just by looking at them.\nThere's also Buddy....",
     "Enabled": true
   },
   "102050010100001": {
     "OriginalText": "それが分かってるから、足を引っ張りたくない。",
-    "Text": "I know that, so I won't hold them back.",
+    "Text": "I know they don't need me,\nso I won't hold them back.",
     "Enabled": true
   },
   "102050010110001": {
