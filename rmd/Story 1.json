@@ -8651,7 +8651,7 @@
   },
   "105020010290012": {
     "OriginalText": "私、嘘と冗談だけは苦手だなって、\nレイヴァン副長によく言われるんですよ。\nなので本当のことなんです。",
-    "Text": "I'm often told by Executive Officer Raven that\nI'm not good at lying and joking.\nIt's really true.",
+    "Text": "I'm often told by Executive Officer Raven that\nI'm not good at lies and jokes.\nIt's true.",
     "Enabled": true
   },
   "105020010300001": {
@@ -9216,92 +9216,92 @@
   },
   "105030040010012": {
     "OriginalText": "みなさん！ お疲れ様でした！\n『パイル』はうまく使えたみたいですね？",
-    "Text": "Good job everyone! It seems that the \"Pile\"\nwas used very well, right?",
+    "Text": "Good job everyone! Seems as though the \"Pile\"\nworked very well!",
     "Enabled": true
   },
   "105030040020003": {
     "OriginalText": "はい、改良を重ねた成果です。",
-    "Text": "Yes, it is the result of repeated\nimprovements.",
+    "Text": "Yes, all thanks to your\nimprovements.",
     "Enabled": true
   },
   "105030040030012": {
     "OriginalText": "それもイズナさんの\nアドバイスがあったからこそですよ！",
-    "Text": "It's all because of Izuna's advice!",
+    "Text": "I couldn't have done it without you, Izuna!",
     "Enabled": true
   },
   "105030040040002": {
     "OriginalText": "イズナ、アドバイスなんかしてたのか？",
-    "Text": "Izuna, did you give any advice?",
+    "Text": "Izuna, you helped?",
     "Enabled": true
   },
   "105030040050003": {
     "OriginalText": "はい！ ギガンテス戦経験者の意見が欲しいと\nシャロンさんにお願いされて、\n開発現場にお邪魔させてもらってました。",
-    "Text": "Yes! Sharon asked me for the opinions of\nthose who had experience fighting the\nGigantes, and I visited the development site.",
+    "Text": "Yes! Sharon reached out to me for ideas\nafter we fought the Gigantes. Together\nwe tweaked the \"pile\" in the lab.",
     "Enabled": true
   },
   "105030040060012": {
     "OriginalText": "発射機構や『パイル』の形状など、\nいくつもイズナさんのアイデアが\n採用されているんですよ！",
-    "Text": "Izuna's ideas have been accepted, such as the\nlaunch mechanism and the shape of the \"pile\"!",
+    "Text": "Izuna's ideas were critical. The\nlaunch mechanism and the shape of\nthe \"pile\" were her ideas!",
     "Enabled": true
   },
   "105030040070001": {
     "OriginalText": "すごいじゃない！ イズナ！",
-    "Text": "Aren't you amazing! Izuna!",
+    "Text": "You're amazing, Izuna!",
     "Enabled": true
   },
   "105030040080003": {
     "OriginalText": "わ、わたしはただ、自分で使う場合を想像して\nこうだったらいいかな、という案を出して、\nそれを採用していただいただけです……。",
-    "Text": "I, I just came up with the idea that I should\nimagine using it myself, I didn't know it\nwill be accepted....",
+    "Text": "I- I just thought of a weapon I could imagine\nusing myself. I wasn't sure how useful it\nwould really be in the field.... ",
     "Enabled": true
   },
   "105030040090002": {
     "OriginalText": "イズナ、それがすごいことなんだぞ。\nオレには到底できないからな。",
-    "Text": "Izuna, that's amazing.\nI cant't even think of that at all.",
+    "Text": "Izuna, that's amazing!\nI couldn't possibly do that kind of work.",
     "Enabled": true
   },
   "105030040100012": {
     "OriginalText": "そうですよ、イズナさん。\nあなたの協力があったから完成したんです。",
-    "Text": "That's right, Izuna.\nIt was completed because of your help.",
+    "Text": "That's right, Izuna.\nThe \"pile\" worked thanks to your ideas.",
     "Enabled": true
   },
   "105030040110003": {
     "OriginalText": "わたし、本当にお役に立てたんですか？",
-    "Text": "Did I really helped you?",
+    "Text": "It was thanks to my ideas?",
     "Enabled": true
   },
   "105030040120012": {
     "OriginalText": "はい！ レイヴァン副長も感心していましたよ！\n思考がスマートかつ独創的で、情熱もある、\n研究者向きだって。",
-    "Text": "Yes! Executive Officer Raven was also impressed!\nHe thinks you're smart, creative, passionate,\nand suitable to be a researcher.",
+    "Text": "Yes! Executive Officer Raven was very impressed!\nHe thinks you're smart, creative, passionate,\nand a great researcher.",
     "Enabled": true
   },
   "105030040130003": {
     "OriginalText": "レイヴァン副長が？",
-    "Text": "Executive Officer Raven said it?",
+    "Text": "The Executive Officer said that?",
     "Enabled": true
   },
   "105030040140012": {
     "OriginalText": "副長だけじゃありませんよ。\n私だって、今すぐにでも\nラボにスカウトしたいくらいです！",
-    "Text": "Not just him.\nI even want to scout you for the lab right\nnow!",
+    "Text": "Not just him,\nI want to recruit you to a proper position\nin the lab. What do you think?",
     "Enabled": true
   },
   "105030040150003": {
     "OriginalText": "……嘘じゃ、ないですよね？",
-    "Text": "It's not a lie, right?",
+    "Text": "... This isn't a joke, right?",
     "Enabled": true
   },
   "105030040160012": {
     "OriginalText": "言いませんでしたっけ？\n私、嘘と冗談だけは苦手なんですよ。",
-    "Text": "Didn't I say that?\nI'm not good at lying and joking.",
+    "Text": "Do you think I'd do that?\nI'm not good at lies and jokes.",
     "Enabled": true
   },
   "105030040170003": {
     "OriginalText": "シャロンさん……わたし、嬉しいです！\nとってもとっても嬉しいです！！",
-    "Text": "Sharon... I'm happy!\nVery very happy!!",
+    "Text": "Sharon... I'm honored!\nI'm so, so happy!!",
     "Enabled": true
   },
   "105030040180001": {
     "OriginalText": "あ、あのさ、イズナ？",
-    "Text": "U, um, Izuna?",
+    "Text": "U- um, Izuna?",
     "Enabled": true
   },
   "105030040190003": {
@@ -9311,7 +9311,7 @@
   },
   "105030040200002": {
     "OriginalText": "お前、本当にやりたいことが\n見つかったんじゃないのか？",
-    "Text": "Did you find what you really wanted to do?",
+    "Text": "So you found yourself a new path?",
     "Enabled": true
   },
   "105030040210003": {
@@ -9321,12 +9321,12 @@
   },
   "105030040215000": {
     "OriginalText": "おめでとう",
-    "Text": "Congrats.",
+    "Text": "Congrats!",
     "Enabled": true
   },
   "105030040220003": {
     "OriginalText": "は、はい……？",
-    "Text": "Wha, what...?",
+    "Text": "Th- thanks...?",
     "Enabled": true
   },
   "105030040225000": {
@@ -9341,27 +9341,27 @@
   },
   "105030040240002": {
     "OriginalText": "最近、あちこちの手龍いをしてるだろ？",
-    "Text": "Have you been helping here and there lately?",
+    "Text": "You've been helping all around the base, right?",
     "Enabled": true
   },
   "105030040250003": {
     "OriginalText": "知ってたんですか？",
-    "Text": "You noticed it?",
+    "Text": "You noticed?",
     "Enabled": true
   },
   "105030040260001": {
     "OriginalText": "うん。その中で、やりたいことが\n見つかったんじゃないかって思ったの。",
-    "Text": "Yes. I believe you've found what you\nwanted to do.",
+    "Text": "Yes, and it seems like you've found what\nyou want to do.",
     "Enabled": true
   },
   "105030040270003": {
     "OriginalText": "……。",
-    "Text": "",
+    "Text": "...",
     "Enabled": false
   },
   "105030040280001": {
     "OriginalText": "気を使わなくていいんだよ？\nイズナがどんな舞台で戦うことになっても、\nあたし達の関係はずっと変わらないんだから。",
-    "Text": "You don't have to worry about us, right?\nNo matter what stage you fight on,\nour friendship will never change.",
+    "Text": "Don't have to worry about us, okay?\nNo matter what stage you fight on,\nour friendship will never change.",
     "Enabled": true
   },
   "105030040290003": {
@@ -9376,7 +9376,7 @@
   },
   "105030040310003": {
     "OriginalText": "……ありがとうごいます。\nでも、わたしの居場所は当分変わりません！",
-    "Text": "...Thank you very much.\nBut my assignment will not change for the\ntime being!",
+    "Text": "...Thank you very much,\nbut I don't plan on switching assignments\nany time soon!",
     "Enabled": true
   },
   "105030040320001": {
@@ -9391,27 +9391,27 @@
   },
   "105030040340003": {
     "OriginalText": "今までのわたしは、自分が前に出ると\n迷惑になるかもと思って、",
-    "Text": "Until now, I thought it would be a nuisance\nif I stood out,",
+    "Text": "Until now, I thought I'd be a nuisance\nif I stood out,",
     "Enabled": true
   },
   "105030040350003": {
     "OriginalText": "目立たないように与えられた\n役割を果たすことだけを考えてきました。",
-    "Text": "I've considered doing my part\ninconspicuously.",
+    "Text": "So I worked in the background,\ninconspicuously.",
     "Enabled": true
   },
   "105030040360003": {
     "OriginalText": "でもシャロンさん、ヨミさん、リーティアさん、\nカリストさんやオルクスさんのお仕事を\nお手龍いしてみて、分かったんです。",
-    "Text": "But when I helped Sharon, Yomi, Rietheia,\nCallisto and Orcus, I finally understood.",
+    "Text": "But when I helped Sharon, Yomi, Rietheia,\nCallisto, and Orcus, I finally understood.",
     "Enabled": true
   },
   "105030040370003": {
     "OriginalText": "どんな仕事でも前向きに取り組むことで、\n自分の思ってる似上の力が出せるんだって。",
-    "Text": "That by working positively in any job,\nyou can exert the same effort as what\nyou've expected.",
+    "Text": "Putting my all into my work without fear\nlets us do so much more together!\nStanding out isn't a liability.",
     "Enabled": true
   },
   "105030040375003": {
     "OriginalText": "そして、それはとっても素敵だってことを。",
-    "Text": "And then everything will be okay.",
+    "Text": "It can even feel good to stand out.",
     "Enabled": true
   },
   "105030040380012": {
@@ -9421,32 +9421,32 @@
   },
   "105030040390003": {
     "OriginalText": "だから決めたんです。\n今は自分にできる事を全力でやろうって。",
-    "Text": "That's why I've decided.\nI'll do my best to do what I can.",
+    "Text": "That's why I've decided.\nI'll do my best however I can!",
     "Enabled": true
   },
   "105030040400003": {
     "OriginalText": "それはみんなと一緒に戦うことだって、\nはっきり分かったんですよ。",
-    "Text": "I clearly understand that I want to fight\nwith everyone.",
+    "Text": "I want to keep fighting alongside my\nfriends, my comrades.",
     "Enabled": true
   },
   "105030040410001": {
     "OriginalText": "ふふっ、イズナ、いい顔してる！",
-    "Text": "Hehe Izuna, now you have a nice smile!",
+    "Text": "Hehe Izuna, I like that smile!",
     "Enabled": true
   },
   "105030040420003": {
     "OriginalText": "あ、もうひとつ分かったことがあります！\n自分の仕事をやり遂げた人は、\nとってもいい笑顔になるんですよ。",
-    "Text": "Oh, there's one more thing! People who have\naccomplished their work will have a very nice\nsmile.",
+    "Text": "Oh, that's another thing: People who feel\naccomplished always have such\nnice smiles!",
     "Enabled": true
   },
   "105030040430002": {
     "OriginalText": "ああ、分かるぜ！ そういうの、いいよな！\n輝いてるっつーかな！",
-    "Text": "Oh, I know that! That stuff is good!\nIt feels like your shining brightly!",
+    "Text": "Oh, I get what you mean! That's good stuff!\nYou shine brighter when you work hard!",
     "Enabled": true
   },
   "105030040440003": {
     "OriginalText": "そうですそうです！\nわたしもそういう顔をしたいんです！",
-    "Text": "That's right!\nI also want to have that kind of feeling!",
+    "Text": "That's right!\nI want to smile brightly every day!",
     "Enabled": true
   },
   "105030040450003": {
@@ -9456,7 +9456,7 @@
   },
   "105030040460001": {
     "OriginalText": "そんなのすぐだよ！ 朝の稽古より楽勝ってね！",
-    "Text": "Let's go at once!\nIt's easier than the morning practice!",
+    "Text": "Let's get to it!\nWe'll start at morning practice!",
     "Enabled": true
   },
   "105030040470002": {
@@ -9466,22 +9466,22 @@
   },
   "105030040480012": {
     "OriginalText": "私はカメラマンとして４人の最高の笑顔を\nフォトに残したいです！",
-    "Text": "I want to capture your best smiles in the photo!",
+    "Text": "I want to capture your best smiles in a photo!",
     "Enabled": true
   },
   "105030040490003": {
     "OriginalText": "そうだ、わたしからひとつお願いがあります。",
-    "Text": "That's right, I have one request.",
+    "Text": "That's right, I have one request:",
     "Enabled": true
   },
   "105030040500003": {
     "OriginalText": "わたしのこと、もう心配しないで下さいね？\n今はもう、迷子ちゃんじゃありませんから。",
-    "Text": "You don't have to worry about me, right?\nI'm not lost anymore.",
+    "Text": "You don't have to worry about me, alright?\nI'm not lost anymore.",
     "Enabled": true
   },
   "105030040510003": {
     "OriginalText": "それよりもみなさん、\nわたしの足を引っ張ったら……",
-    "Text": "Rather than that,\nYou better not get in my way, or else....",
+    "Text": "Rather,\nYou'd better not get in my way, or else....",
     "Enabled": true
   },
   "105030040520003": {
