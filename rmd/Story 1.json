@@ -3861,22 +3861,22 @@
   },
   "103010010140001": {
     "OriginalText": "だってあんた、すぐモノメイト使うじゃない。",
-    "Text": "You never use your Monomates.",
+    "Text": "You overuse your Monomates.",
     "Enabled": true
   },
   "103010010150002": {
     "OriginalText": "それはオレが常に、\n最前線で戦ってるってことだろ！",
-    "Text": "That's for people on the frontlines!",
+    "Text": "That just means I'm fighting hardest\non the frontlines!",
     "Enabled": true
   },
   "103010010160001": {
     "OriginalText": "へー、そうだったんだぁ？\nただ攻撃を避けるのが下手なのかと思ってたー。",
-    "Text": "Hmm, is that so?\nWell then you should get better at avoiding\nattacks.",
+    "Text": "Hmm, is that so?\nMaybe you should just get better at\navoiding attacks.",
     "Enabled": true
   },
   "103010010170002": {
     "OriginalText": "なに！？ じゃあここで試してみるか？",
-    "Text": "What!?\nThen why don't you use them?",
+    "Text": "What!?\nWell why don't you use them9?",
     "Enabled": true
   },
   "103010010180001": {
@@ -4936,17 +4936,17 @@
   },
   "103035010060001": {
     "OriginalText": "うん！ あたし達も必死だからね！",
-    "Text": "Yeah! Because we were desperate!",
+    "Text": "Of course! We had no other choice to survive!",
     "Enabled": true
   },
   "103035010070013": {
     "OriginalText": "そうですか……こんなに早く\nグランを扱えるようになるとは驚きです。",
-    "Text": "Is that so... I'm surprised you were able to\nhandle Gran so quickly.",
+    "Text": "I suppose so...\nStill, I'm surprised you were able to\nhandle Gran so quickly.",
     "Enabled": true
   },
   "103035010080001": {
     "OriginalText": "そうなの？ これって、難しいんだ？",
-    "Text": "Is that so?\nWas it supposed to be difficult?",
+    "Text": "You are?\nWas it supposed to be difficult?",
     "Enabled": true
   },
   "103035010090013": {
@@ -4961,27 +4961,27 @@
   },
   "103035010110013": {
     "OriginalText": "はい。うまく使えているようなので\n問題はありませんが、この力は約束によって\nより増幅されるという性質を持っています。",
-    "Text": "Yes. Looks like you have no problem in using\nit, but it's power is amplified by promise.",
+    "Text": "Yes. Looks like you had no problems using\nit, but its power is amplified by promises.",
     "Enabled": true
   },
   "103035010120001": {
     "OriginalText": "約束、ねえ？ 確かに変わった性質だわ。",
-    "Text": "Promise, huh? It's definitely strange.",
+    "Text": "Promises, huh? That's new.",
     "Enabled": true
   },
   "103035010130013": {
     "OriginalText": "特に意識せず使えているということは、\nみなさんがしっかり約束を守る\n誠実な人達だという証拠になります。",
-    "Text": "The fact that you can use it without\nfocusing, It's proof that you are sincere\npeople who keep their promises.",
+    "Text": "The fact that you can use it without\nfocusing is proof that you are sincere\npeople who keep their promises.",
     "Enabled": true
   },
   "103035010140001": {
     "OriginalText": "へえ、それってちょっと嬉しいね！",
-    "Text": "Heh, that's a bit nice!",
+    "Text": "Aww, well that's sweet!",
     "Enabled": true
   },
   "103035010150001": {
     "OriginalText": "約束が力に、か。\nそのせいかな？ アレ相手に頑張れたのは。",
-    "Text": "Promise is power, huh.\nIs it really because of that?\nI just did my best to defeat the enemy.",
+    "Text": "Promises are power, huh?\nThat's really what it is?\nI just did my best to defeat the enemy.",
     "Enabled": true
   },
   "103035010160013": {
@@ -4991,42 +4991,43 @@
   },
   "103035010170001": {
     "OriginalText": "知ってる？ でーっかいウネウネした\nタコみたいなのがいてさ、\nもう大変だったんだ！",
-    "Text": "Do you know it?\nIt was a big twisting octopus,\nit was difficult!",
+    "Text": "You didn't see?\nIt was this gross, writhing octopus thing!\nI hated it!",
     "Enabled": true
   },
   "103035010180003": {
     "OriginalText": "あの新種のギガンテスですか？\n確かに、厳しい戦いでしたね。",
-    "Text": "Is it a new kind of Gigantes?\nI'm sure of it, it was a tough battle.",
+    "Text": "Some kind of odd Gigantes?\nRegardless, it really was a\ntough battle.",
     "Enabled": true
   },
   "103035010190001": {
     "OriginalText": "厳しかったのは確かだけど、そうじゃなくて！\nあたしああいうヌルーっとしたウネウネが\n生理的にダメなのよ！",
-    "Text": "It was tough but not so! I don't like its\nwinding movement and its slimy physique!",
+    "Text": "It was tough in a whole new way!\nI couldn't focus watching the gross way\nit moved, and the slime, oh the slime!",
     "Enabled": true
   },
   "103035010200002": {
     "OriginalText": "そうだったのか？",
-    "Text": "Was it?",
+    "Text": "Was it like that?",
     "Enabled": true
   },
   "103035010210003": {
     "OriginalText": "そういう風には見えませんでしたが。",
-    "Text": "It didn't look like that.",
+    "Text": "It wasn't that bad.",
     "Enabled": true
   },
   "103035010220001": {
     "OriginalText": "あの時は、ほら……いろいろ悩んでたし、\nみんなに迷惑かけられないと思ってさ。",
     "Text": "At that time, you see... I was worried about many\nthings, I don't think it bothers\neveryone.",
+    "Text": "Okay well, you see...\nI was worried about a lot of things,\nbut I wont rehash all that now.",
     "Enabled": true
   },
   "103035010230001": {
     "OriginalText": "か・な・り！ 我慢してたんだよ！",
-    "Text": "F-a-i-r-l-y! I was patient!",
+    "Text": "B-u-t!\nI was totally holding back in that fight!",
     "Enabled": true
   },
   "103035010240001": {
     "OriginalText": "ユノはそういうのどう？ 嫌い？\nって、あれ？ ユノ？",
-    "Text": "How about you Juno?\nHate it? What? Juno?",
+    "Text": "How about you Juno,\nwhat do you think? Hey? Juno?",
     "Enabled": true
   },
   "103035010250013": {
@@ -5041,32 +5042,32 @@
   },
   "103035010270013": {
     "OriginalText": "ダメです……そういうの、ダメなんです。\nわたし、足がたくさんついてるのは\n全然ダメで……あわわ……。",
-    "Text": "No... That's no good.\nI..  really don't like seeing it...\nAwawa....",
+    "Text": "No... absolutely not!\nI- I can't stand the thought of\nsuch a creature... Awawa....",
     "Enabled": true
   },
   "103035010280001": {
     "OriginalText": "だ、大丈夫よ！？\nここにはいないから、落ち着いて！",
-    "Text": "Are you okay!?\nIt's not here, so stay calm!",
+    "Text": "Are you okay!?\nIt's not here, don't worry!",
     "Enabled": true
   },
   "103035010290013": {
     "OriginalText": "は、はい……",
-    "Text": "Y, Yes....",
+    "Text": "O-okay....",
     "Enabled": true
   },
   "103035010300013": {
     "OriginalText": "すみません。\nお見苦しいところを……。",
-    "Text": "Sorry.\nThat was unsightly....",
+    "Text": "I'm sorry,\nThat was embarrassing....",
     "Enabled": true
   },
   "103035010310001": {
     "OriginalText": "いいって、気にしないで。\nあたしも同じだし。\nタコ大好きって言われなくてよかったよ。",
-    "Text": "Don't worry about it.\nI'm the same.\nI'm glad I wasn't told, I hate octopus.",
+    "Text": "Don't worry about it, I'm the same.\nWe're kindred spirits, I hate octopuses too.",
     "Enabled": true
   },
   "103035010320013": {
     "OriginalText": "そうですよね……あんなの好きなんて、\n変な人ですよね……。",
-    "Text": "That's right... I didn't like that either,\nIt's weird.",
+    "Text": "That's a relief...\nSomeone would have to be wrong in the head\nto tolerate all that sliminess and squirming!",
     "Enabled": true
   },
   "103035010330001": {
@@ -5076,47 +5077,47 @@
   },
   "103035010340003": {
     "OriginalText": "わたし、割と好きなんですけど……。",
-    "Text": "I like it a lot though....",
+    "Text": "I think they're kind of cool....",
     "Enabled": true
   },
   "103035010350001": {
     "OriginalText": "とはいえ、逃げてるだけじゃしょうがないから、\n気合い入れてぶっ倒すしかないんだよね！",
-    "Text": "However, it won't help just to run away,\nwe have no choice but to knock it down!",
+    "Text": "But running away won't accomplish anything.\nWe have no choice but to take it out!",
     "Enabled": true
   },
   "103035010360013": {
     "OriginalText": "それは何ですか？",
-    "Text": "What is that?",
+    "Text": "What's that pose?",
     "Enabled": true
   },
   "103035010370001": {
     "OriginalText": "これ？ これは氣を高めて、\n戦いに集中するための構えだよ。",
-    "Text": "This? This raises the Ki,\nit makes you focus on the fight.",
+    "Text": "This? This raises the Ki,\nit helps you focus on the fight.",
     "Enabled": true
   },
   "103035010380001": {
     "OriginalText": "やってみると、結構弱気がぶっ飛ぶの。\nユノもやってみる？",
-    "Text": "When I try it, it blasts away my timidness.\nWhy don't you try it Juno?",
+    "Text": "When I do it, it blasts away my weakness!\nWhy don't you try it Juno?",
     "Enabled": true
   },
   "103035010390013": {
     "OriginalText": "どうやるんですか？ こう……？",
-    "Text": "How do you do it? Like this...?",
+    "Text": "How did you do it? Like this?",
     "Enabled": true
   },
   "103035010400001": {
     "OriginalText": "動きはだいたいあってるかな？\nでも大事なのは気持ちだからね！",
-    "Text": "I wonder if it's the same posture?\nBut the important thing is your emotion!",
+    "Text": "Is that really how I look?\nWell regardless, the important thing\nis the feeling!",
     "Enabled": true
   },
   "103035010410013": {
     "OriginalText": "気持ち、ですか。\n気持ち……気持ち……。",
-    "Text": "Emotion. Emotion... emotion....",
+    "Text": "Feeling. Feeling... feeling....",
     "Enabled": true
   },
   "103035010420002": {
     "OriginalText": "ルティナって誰が相手でも\nすぐ打ち解けちまうのな。\nありゃ才能だぜ。",
-    "Text": "Anyone can really easily open to Lutina.\nWhat a surprising talent.",
+    "Text": "Lutina's really easy to open up to.\nWhat a surprising talent.",
     "Enabled": true
   },
   "103035010425000": {
@@ -5126,7 +5127,7 @@
   },
   "103035010430002": {
     "OriginalText": "だよな。でもそういうのって、\n自分が一番気付いてなかったりするよな！",
-    "Text": "Right. She might be the only one whose not\naware of it!",
+    "Text": "Right? She might be the only one who's not\naware of it!",
     "Enabled": true
   },
   "103035010435000": {
@@ -5141,7 +5142,7 @@
   },
   "103035010450001": {
     "OriginalText": "せーのっ！",
-    "Text": "Together!",
+    "Text": "Ready? Pose!",
     "Enabled": true
   },
   "103035010460013": {
@@ -5166,47 +5167,47 @@
   },
   "103035010500003": {
     "OriginalText": "やってみると、いいですねこれ。",
-    "Text": "If you try this, it'll feel good.",
+    "Text": "Keep trying, you'll feel great.",
     "Enabled": true
   },
   "103035010510001": {
     "OriginalText": "でしょ！ ",
-    "Text": "Right!",
+    "Text": "Exactly!",
     "Enabled": true
   },
   "103040010010001": {
     "OriginalText": "デルタ・ヴァリアントのクルーには、\nそれぞれ役割があるんです！",
-    "Text": "The Delta Valiant crew has their own respective roles!",
+    "Text": "Every member of the Delta Valiant crew\nhas their roles!",
     "Enabled": true
   },
   "103040010020001": {
     "OriginalText": "リーティアはみんなの体調を常に気にしていて、\nカリストさんは、[ruby ふね]艦[/ruby]の修復に全力を注いでる。\n他のみんなも必死に仕事をしています。",
-    "Text": "Rietheia always cares about everyone's\ncondition, Callisto is committed to repairing\nthe ship. Everyone is working hard.",
+    "Text": "Rietheia heals our wounded,\nCallisto is repairing the ship.\nEveryone is working hard!",
     "Enabled": true
   },
   "103040010030001": {
     "OriginalText": "じゃあ、あたしの役割って？\nこの[ruby ほし]惑星[/ruby]に来てから、ずーっと考えてたけど、\n全然分からなかったんだよね。",
-    "Text": "Then what is my role?\nI've been thinking about it since we came to\nthis planet, I really don't know at all.",
+    "Text": "But what is my role?\nI've been thinking about that since we crashed\nhere. I still don't really know.",
     "Enabled": true
   },
   "103040010040001": {
     "OriginalText": "でも、フィルディア艦長のおかげで、\n少し分かった気がする！",
-    "Text": "But thanks to Captain Fildia,\nI feel like I know a bit now.",
+    "Text": "But thanks to Captain Fildia,\nI feel like I'm getting a better idea.",
     "Enabled": true
   },
   "103040010050001": {
     "OriginalText": "あたしの役割は、あの冷端に前のめりなセイルと\n冷端に引っ込み思案なイズナ、\nそして大事な[ruby]相棒[/ruby]を必ず生き残らせること！",
-    "Text": "My role is to have a hasty Sail and kind\nIzuna at my side and also my precious Buddy\n, I'll make sure we will survive.",
+    "Text": "My role is to make sure Sail can rush\nforward, Izuna can remain kind, and Buddy can\nfight hard. I'll make sure we survive!",
     "Enabled": true
   },
   "103040010060001": {
     "OriginalText": "先のことを考えると不安は消えてくれないけど、\nあたしは仲間の信頼に応えなきゃいけない。\nいや、応えたいと思ってる。",
-    "Text": "When I think about the future, my anxiety\ndoesn't go away, I have to live up to their\ntrust. No, I will fulfill it.",
+    "Text": "When I think about the future, my anxiety\ndoesn't go away. I have to live up to their\ntrust. No, I WILL live up to it.",
     "Enabled": true
   },
   "103040010070001": {
     "OriginalText": "この気持ちは嘘じゃないよ。",
-    "Text": "This feeling is not a lie.",
+    "Text": "This feeling is proof of\nmy conviction.",
     "Enabled": true
   },
   "103200010010001": {
