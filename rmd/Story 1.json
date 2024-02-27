@@ -9512,17 +9512,17 @@
   },
   "105035010050013": {
     "OriginalText": "はい。こちらはつつがなく。",
-    "Text": "Yes. I'm okay.",
+    "Text": "I've been well, thank you.",
     "Enabled": true
   },
   "105035010060001": {
     "OriginalText": "ギガンテスを拠点まで連れて帰ったら、\n研究班の人達がすごく喜んでくれたよ！\nいろいろはかどりそうだって。",
-    "Text": "When we brought the Gigantes back to the\nbase, the research team were very pleased!\nEverything is going well.",
+    "Text": "When we brought the Gigantes back to the\nbase, the research team was very pleased!\nEverything is going smoothly.",
     "Enabled": true
   },
   "105035010070013": {
     "OriginalText": "みなさんは高度な技術力をお持ちのようなので、\nきっと宇宙船の修理に役立つことでしょう。",
-    "Text": "You seem to have an advanced technology,\nso it will surely be useful for repairing\nyour spaceship.",
+    "Text": "It contains advanced technology, so\nit will surely be useful for repairing\nyour spaceship.",
     "Enabled": true
   },
   "105035010080001": {
@@ -9537,7 +9537,7 @@
   },
   "105035010100001": {
     "OriginalText": "そうなの？ どうして？",
-    "Text": "Really, is that so. Could you tell us?",
+    "Text": "Really, is that so? How?",
     "Enabled": true
   },
   "105035010110013": {
@@ -9562,12 +9562,12 @@
   },
   "105035010150001": {
     "OriginalText": "それくらいのごほうびはあっていいよね！",
-    "Text": "I think it's okay to have that much of\na reward.",
+    "Text": "It's the perfect time for a sweet\nreward!",
     "Enabled": true
   },
   "105035010160013": {
     "OriginalText": "すいーつとは、何でしょうか？",
-    "Text": "What is a sweets?",
+    "Text": "What is a \"sweets\"?",
     "Enabled": true
   },
   "105035010170002": {
@@ -9592,7 +9592,7 @@
   },
   "105035010210003": {
     "OriginalText": "スイーツとは、天国への階段です！",
-    "Text": "Sweets are a stairway to heaven!",
+    "Text": "Sweets are the pathway to heaven!",
     "Enabled": true
   },
   "105035010220013": {
@@ -9602,7 +9602,7 @@
   },
   "105035010230003": {
     "OriginalText": "癒しであり、宝であり、幸せでもある。\nしかもそれは食べ洋で、\n力と栄養も与えてくれるものなのです！",
-    "Text": "A cure, a treasure, happiness.\nIt's also a food, it gives you strength and\nnutrition!",
+    "Text": "A cure, a treasure, pure happiness!\nIt's also a food! It gives you strength and\nnutrition!",
     "Enabled": true
   },
   "105035010240013": {
@@ -9612,7 +9612,7 @@
   },
   "105035010250003": {
     "OriginalText": "いいえ、芸術です。",
-    "Text": "No, it's an art.",
+    "Text": "No, it's art.",
     "Enabled": true
   },
   "105035010260013": {
@@ -9632,7 +9632,7 @@
   },
   "105035010290003": {
     "OriginalText": "いい表現ですね。\n賞味期限があることで、永遠ではない、\n刹那のアートともいえるでしょう。",
-    "Text": "It's an expression. With the expiration date,\nit is a momentary art that doesn't last\nforever.",
+    "Text": "It's expressionism with an expiration date,\nan ephemeral art that can only be\nappreciated once!",
     "Enabled": true
   },
   "105035010300002": {
@@ -9647,42 +9647,42 @@
   },
   "105035010320001": {
     "OriginalText": "そうね。わからんちんだわ！",
-    "Text": "Yeah. You don't understand!",
+    "Text": "Yeah, you don't understand!",
     "Enabled": true
   },
   "105035010330002": {
     "OriginalText": "ルティナまで！",
-    "Text": "Even you Lutina!",
+    "Text": "Even you Lutina!?",
     "Enabled": true
   },
   "105035010340001": {
     "OriginalText": "[ruby]相棒[/ruby]は分かるよね？",
-    "Text": "Buddy, do you understand it?",
+    "Text": "Buddy, you get it right?",
     "Enabled": true
   },
   "105035010345000": {
     "OriginalText": "分かる",
-    "Text": "Yeah, I know it.",
+    "Text": "Yeah, I get it.",
     "Enabled": true
   },
   "105035010350003": {
     "OriginalText": "ならいいです。",
-    "Text": "Then it's okay.",
+    "Text": "Our comrade-in-arms.",
     "Enabled": true
   },
   "105035010360002": {
     "OriginalText": "おい、本当に分かってんのかよ！？",
-    "Text": "Hey, do you really understand it!?",
+    "Text": "Really, you buy this nonsense!?",
     "Enabled": true
   },
   "105035010365000": {
     "OriginalText": "おいしいよね",
-    "Text": "It's delicious.",
+    "Text": "It tastes good, right?",
     "Enabled": true
   },
   "105035010370003": {
     "OriginalText": "あ、分かってないですね。",
-    "Text": "Ah, so you don't know.",
+    "Text": "Ah, you don't get it.",
     "Enabled": true
   },
   "105035010380001": {
@@ -9697,7 +9697,7 @@
   },
   "105035010400003": {
     "OriginalText": "ぜひ食べてもらいたいのですが、\nユノさんは立体映像なんですよね……。",
-    "Text": "We definitely want you to eat it,\nbut you're a hologram, isn't it?",
+    "Text": "We'd love to share some with you,\nbut you're a hologram, aren't you?",
     "Enabled": true
   },
   "105035010410013": {
@@ -9707,7 +9707,7 @@
   },
   "105035010420002": {
     "OriginalText": "イズナって昔っから甘い洋にだけは\nやたらとうるさいんだよ。\nそんなにおやつがいいのかね……。",
-    "Text": "Izuna has always been gung ho about\nsweets. I wonder if such a snack is really\ngood....",
+    "Text": "Izuna has always been obsessed with\nsweets. I wonder if any snack is\nreally that good....",
     "Enabled": true
   },
   "105035010430003": {
@@ -9752,7 +9752,7 @@
   },
   "105035010510003": {
     "OriginalText": "よかった、ユノさんとは仲良しになれそうです。",
-    "Text": "I'm glad we can get along Juno.",
+    "Text": "I'm glad we can share that, Juno.",
     "Enabled": true
   },
   "105035010520013": {
@@ -9777,17 +9777,17 @@
   },
   "105040010040001": {
     "OriginalText": "イズナは自分の進む道について悩んでたけど、\n自力で答えを見つけ出せたみたい。\nエライっていうか、カッコイイね。",
-    "Text": "Izuna was worried about her future, but she\nseemed to be able to find the answer on her\nown. She's cool, isn't it?",
+    "Text": "Izuna was worried about her future, but she\nseemed to be able to figure things out\non her own. She's so cool.",
     "Enabled": true
   },
   "105040010050001": {
     "OriginalText": "あたしももっと頼りになる存在にならないとね！\n今のままじゃ、[ruby]相棒[/ruby]に頼りっぱなしだもん。\nあ、迷惑とか思われてないよね……。",
-    "Text": "I have to be more reliable! As it is now,\nI'm still relying on my Buddy.\nI think I'm bothering them....",
+    "Text": "I have to be more reliable! As it is now,\nI'm still relying on my Buddy.\nI still think I'm bothering them....",
     "Enabled": true
   },
   "105040010060001": {
     "OriginalText": "き、きっと大丈夫！ \n[ruby]相棒[/ruby]はそんな奴じゃない……はずだし。\nうーん……もっと頑張ろう！",
-    "Text": "I, I'm sure it's alright!\nBuddy isn't that kind of person...\nAhhh... let's do our best!",
+    "Text": "I- I'm sure it's alright!\nBuddy isn't the kind of person to...\nAhhh... let's do our best!",
     "Enabled": true
   },
   "106000010010000": {
